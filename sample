@@ -1,0 +1,79 @@
+<div class="kfc-logo">
+                <img src="https://online.kfc.co.in/static/media/kfcLogo.492728c6.svg">
+            </div>
+            <div class="menu">Menu</div>
+            <div class="deals">Deals</div>
+            <div>
+                <img src="account-avatar-person-svgrepo-com.svg">
+            </div>
+            <div>
+                <img src="rupee-svgrepo-com.svg">
+            </div>
+            <div>
+                <img src="bucket_cart_icon.svg">
+            </div>
+
+
+
+            <div class="menu-icon">
+                <img src="https://online.kfc.co.in/static/media/MenuIcon.e607771f.svg">
+            </div>
+
+
+            .menu-icon{
+                width: 100%;
+                margin-left: 11px;
+                margin-top: 14px;
+            }
+            
+
+            button{
+                background-color: #e4002b;
+                color: #fff;
+                width: 150px;
+                height: 45px;
+                border-radius: 26px;
+                border: none;
+                margin-left: 830px;
+                margin-top: -30px;
+            }
+
+            .num1{
+                height: 68px;
+                background-color: #f8f9fa;
+                margin-top: -20px;
+                
+            }
+
+            <div class="Location">
+                <img src="https://online.kfc.co.in/static/media/Search_Pin.e88a4d93.svg">
+                <div class="SetLocationText">
+                    <h5>Allow location access for local store menu and promos</h5>
+                </div>
+                <div class="location-button"><button class="SetLocation">Set Location</button></div>
+            </div>
+            <hr>
+            <div class="headeritems">
+                <div class="kfc-logo">
+                    <img src="https://online.kfc.co.in/static/media/kfcLogo.492728c6.svg">
+                </div>
+                <div class="menu"><strong>Menu</strong></div>
+                <div class="deals"><strong>Deals</strong></div>
+                <div class="sign-in">
+                    <img src="account-svgrepo-com.svg">
+                </div>
+                <h5 class="sign">Sign In</h5>
+                <div class="rupee">
+                    <img src="rupee-svgrepo-com.svg">
+                </div>
+                <div class="number"><h4>0</h4></div>
+                <div class="cart"><img src="bucket_cart_icon.svg"></div>
+            </div>
+    
+            <div class="order">
+                <div class="ordertext">
+                    <h3>LET'S ORDER FOR DELIVERY,PICK UP,OR DINE-IN</h3>
+                        <button class="startorder">Start Order</button>
+                
+                </div>
+            </div>
